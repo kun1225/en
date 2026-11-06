@@ -8,4 +8,4 @@ Follow [the lesson prompt](LESSON_PROMPT.md). Check this index and [the previous
 
 | Taiwan date | Lesson | Target words | Business phrases |
 | --- | --- | --- | --- |
-| 2026-11-06 | [Making a stronger launch decision](lessons/2026-11-06.md) | viable; constraint; explicit; compelling; scrutiny | on the same page; leave room for |
+| 2026-11-06 | [Making a stronger launch decision — revision 2](lessons/2026-11-06.md) | viable; constraint; explicit; compelling; scrutiny | on the same page; leave room for |
