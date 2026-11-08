@@ -8,11 +8,11 @@ Please give me five C1–C2 level words. For each word, include:
 
 - Its part of speech and English definition.
 - Its Mandarin meaning in Traditional Chinese.
-- Three natural example sentences.
+- Three natural example sentences. Immediately after each example, add a line labeled **Simpler English:** that expresses the same meaning using more common words and simpler grammar. Replace the advanced target word with an everyday equivalent where possible, while preserving the original facts, tense, intent, and degree of certainty.
 - Common derived forms, with their parts of speech and Mandarin meanings.
 - Similar words and clear explanations of the differences in meaning, register, or usage.
 
-Then give me two useful phrases: one for business and one for everyday life. For each phrase, include its English explanation, Mandarin meaning, and a natural example sentence.
+Then give me two useful phrases: one for business and one for everyday life. For each phrase, include its English explanation, Mandarin meaning, and a natural example sentence. Immediately after the example, add **Simpler English:** with a plain-English paraphrase that replaces the phrase with everyday wording and preserves the same meaning.
 
 Finally, write a coherent article that naturally uses all five target words and both phrases. Bold the target words and phrases in the article.
 
