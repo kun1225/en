@@ -2,7 +2,7 @@
 
 Daily lessons at 9:00 a.m. Asia/Taipei. Dates below are Taiwan dates.
 
-Follow [the lesson prompt](LESSON_PROMPT.md). Check this index and [the previous 30-word list](words/advanced-english-30-words.md) before choosing new target words or phrases.
+Follow [the lesson prompt](LESSON_PROMPT.md). Check this index and all previous lessons before choosing new target words or phrases.
 
 ## Lesson index
 

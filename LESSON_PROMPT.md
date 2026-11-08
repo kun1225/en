@@ -2,7 +2,7 @@
 
 I’m learning English. Create today’s lesson as a new Markdown note in `lessons/YYYY-MM-DD.md`, using today’s date in Asia/Taipei.
 
-Before generating any lesson content, read README.md, all previous lessons, and words/advanced-english-30-words.md, along with any other available English-learning notes to avoid repeating words or phrases I’ve already learned. Check previous target words, their derived forms, and taught phrases. If my notes are missing or inaccessible, ask me to provide them or their location before generating the lesson. Do not assume that vocabulary is new without checking.
+Before generating any lesson content, read README.md and all previous lessons, along with any other available English-learning notes to avoid repeating words or phrases I’ve already learned. Check previous target words, their derived forms, and taught phrases. If my notes are missing or inaccessible, ask me to provide them or their location before generating the lesson. Do not assume that vocabulary is new without checking.
 
 Please give me five C1–C2 level words. For each word, include:
 
@@ -24,6 +24,6 @@ For each target word, verify and label its C1 or C2 level for the intended meani
 
 After saving the lesson, update README.md with its Taiwan date, lesson link, five target words, and both phrases. Resolve paths relative to the repository root. Preserve the existing daily delivery preference of 9:00 a.m. Asia/Taipei.
 
-You can and you should commit, push the note to Github without permission after you generate the course
+After generating each course, you must commit and push the new lesson and updated README.md to GitHub without asking for additional permission. Verify that the push succeeded before reporting completion.
 
 Stage only lesson-related files, use a commit message in the form `<type>: <description>`, and push normally without force. Report any failure honestly; saving locally does not mean the push succeeded.
