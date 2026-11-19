@@ -8,6 +8,7 @@ Follow [the lesson prompt](LESSON_PROMPT.md). Check this index and all previous 
 
 | Taiwan date | Lesson | Target words | Phrases (business / everyday) |
 | --- | --- | --- | --- |
+| 2026-11-19 | [Recovering when plans go wrong](lessons/2026-11-19.md) | setback; disruption; adverse; resilience; refine | get back on track (business); roll with the punches (everyday) |
 | 2026-11-16 | [Comparing options before deciding](lessons/2026-11-16.md) | preliminary; comprehensive; unbiased; conclusive; comparative | weigh up the options (business); keep an open mind (everyday) |
 | 2026-11-12 | [Sharing a workload without losing control](lessons/2026-11-12.md) | allocate; delegate; overwhelm; versatile; competent | get the ball rolling (business); bite off more than you can chew (everyday) |
 | 2026-11-10 | [Giving feedback people can use](lessons/2026-11-10.md) | constructive; tactful; receptive; defensive; fearful | touch base (business); clear the air (everyday) |
