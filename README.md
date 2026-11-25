@@ -8,6 +8,9 @@ Follow [the lesson prompt](LESSON_PROMPT.md). Check this index and all previous 
 
 | Taiwan date | Lesson | Target words | Phrases (business / everyday) |
 | --- | --- | --- | --- |
+| 2026-11-24 | [From research to publication](lessons/2026-11-24.md) | neoliberalism; culminate; monograph; sanctions; forensic | Sunset a project; See something through |
+| 2026-11-23 | [Materials, objects, and access](lessons/2026-11-23.md) | paraphernalia; substrate; esoteric; retrieval; preservation | Archival digitization; Behind the scenes |
+| 2026-11-22 | [Researching an image archive](lessons/2026-11-22.md) | ethnographic; taxonomy; arduous; archival; digitization | Image taxonomy; At your leisure |
 | 2026-11-19 | [Style supplement: Describing style, personality, and tone](lessons/2026-11-19-style.md) | understated; whimsical; pretentious; irreverent; quaint | strike a balance (business); not my cup of tea (everyday) |
 | 2026-11-19 | [Recovering when plans go wrong](lessons/2026-11-19.md) | setback; disruption; adverse; resilience; refine | get back on track (business); roll with the punches (everyday) |
 | 2026-11-16 | [Comparing options before deciding](lessons/2026-11-16.md) | preliminary; comprehensive; unbiased; conclusive; comparative | weigh up the options (business); keep an open mind (everyday) |
@@ -17,3 +20,4 @@ Follow [the lesson prompt](LESSON_PROMPT.md). Check this index and all previous 
 | 2026-11-08 | [Choosing work that fits your life — regenerated](lessons/2026-11-08.md) | feasible; lucrative; reluctant; incentive; tedious | draw the line at (business); sleep on it (everyday) |
 | 2026-11-07 | [Adapting plans when things go wrong](lessons/2026-11-07.md) | resourceful; indispensable; detrimental; unanimous; inevitable | keep someone in the loop; play it by ear |
 | 2026-11-06 | [Making a stronger launch decision — revision 2](lessons/2026-11-06.md) | viable; constraint; explicit; compelling; scrutiny | on the same page; leave room for |
+
