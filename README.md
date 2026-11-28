@@ -8,6 +8,7 @@ Follow [the lesson prompt](LESSON_PROMPT.md). Check this index and all previous 
 
 | Taiwan date | Lesson | Target words | Phrases (business / everyday) |
 | --- | --- | --- | --- |
+| 2026-11-28 | [Describing spaces and atmosphere](lessons/2026-11-28.md) | serene; secluded; vibrant; exquisite; renowned | set the tone (business); a change of scenery (everyday) |
 | 2026-11-24 | [From research to publication](lessons/2026-11-24.md) | neoliberalism; culminate; monograph; sanctions; forensic | Sunset a project; See something through |
 | 2026-11-23 | [Materials, objects, and access](lessons/2026-11-23.md) | paraphernalia; substrate; esoteric; retrieval; preservation | Archival digitization; Behind the scenes |
 | 2026-11-22 | [Researching an image archive](lessons/2026-11-22.md) | ethnographic; taxonomy; arduous; archival; digitization | Image taxonomy; At your leisure |
