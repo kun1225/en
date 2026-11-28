@@ -16,7 +16,16 @@ Then give me two useful phrases: one for business and one for everyday life. For
 
 Finally, write a coherent article that naturally uses all five target words and both phrases. Bold the target words and phrases in the article.
 
-Keep the total class time to about 12 minutes: approximately seven minutes for vocabulary, two minutes for phrases, and three minutes for reading the article. Keep explanations concise and aim for an article of about 250–300 words.
+After the article, add a daily section titled **How a native speaker might describe it — 母語者會怎麼描述** (about two minutes).
+
+- Independently choose one random subject each day, such as a tree, a lamp, a room, a street scene, a meal, a sound, or a piece of music. Vary the categories across days and check previous lessons to avoid recently used subjects. The subject does not need to match the lesson's main topic.
+- Name the subject in English and Traditional Chinese. Give one plausible, natural spoken-English description of two to four connected sentences, as someone might say to a friend. Use concrete observations and natural collocations: appearance, texture, light, movement, sound, mood, or personal impression as appropriate. Prefer everyday language over forced advanced vocabulary or literary ornament.
+- Label the description **Natural English:** and provide a faithful Traditional Chinese translation. Then add **Simpler English:** with a plainer paraphrase of the whole description that preserves its meaning.
+- Highlight two or three useful descriptive expressions from the passage and briefly explain their meanings and usage in Traditional Chinese. They may be below C1; do not force the five target words or two taught phrases into this section.
+- Present this as one natural possibility, not how all native speakers would speak. Explain a regional expression if one is used. If no actual image, object, or audio is supplied, clearly frame the subject as an imagined example; do not imply that you inspected or listened to something.
+- Finish with one short speaking prompt inviting me to describe a similar subject in my own words.
+
+Keep the total class time to about 14 minutes: approximately seven minutes for vocabulary, two minutes for phrases, three minutes for reading the article, and two minutes for the native-speaker description section. Keep explanations concise and aim for an article of about 250–300 words.
 
 Start the Markdown note with the lesson date, topic, estimated study time, and the names of the notes checked for repetition. Save each lesson as a new file without overwriting an existing lesson.
 
